@@ -1,0 +1,57 @@
+-- RMU SESSION 3 PROBLEM 1
+
+If in doubt about how to submit, see SUBMISSION_GUIDELINES file.
+
+This is a two part exercise that focuses on requirements discovery and modeling
+of business logic.  You'll be exploring the rules of the game Pressman and then
+implementing a backend system which enforces those rules.
+
+== GUIDELINES
+
+- Start this exercise by watching the video describing the rules of Pressman:
+  http://www.youtube.com/watch?v=9iIG2vgLMyQ 
+  It is deliberately vague, so questions will need to be asked!
+
+- The first part of this exercise is determining the rules of the game and then
+  writing them up as requirements.  This is a collaborative exercise between all
+  students, and will take place on the mailing list and IRC.
+
+- Students will attempt to summarize their interpretation of the rules and ask
+  any clarifying question on the mailing list.  Once each rule has been clearly
+  described, it can be added to the notes section on the assignment's page in
+  university-web.
+
+- In the second part of this exercise, students will use the notes on the assignment 
+  page as their requirements, and will build a backend system which correctly
+  handles most or all of the following things:
+
+  1) Initial setup of the board
+  2) Valid and invalid moves
+  3) Captures
+  4) Re-generation
+  5) End game conditions (resign or total domination)
+
+  While students may collaborate on high level topics, the code they submit needs 
+  to be mostly their own.
+
+- Credit for this assignment will be based primarily on the second part
+  (submitting working code), but the requirements discovery phase needs
+  to happen before people can begin coding.  All are strongly encouraged to
+  participate in both parts of this exercise.
+
+- It may not be necessary to nail down 100% of the requirements before you begin
+  coding, but make sure that you don't code yourself into a corner by assuming
+  too much before it gets clarified.
+
+- If this task feels overwhelming, don't worry!  Talk with me, your mentors, and
+  your fellow students to discover ways to break into it.  It's not an easy
+  problem, but we'll find a way to get you started on it.
+
+== QUESTIONS?
+
+Hit up the mailing list or IRC.  RMU exercises are left deliberately open ended,
+and often benefit from some discussion before, during, and after you work on
+them.
+
+If for some reason you can't access YouTube, let me know and I'll figure
+something out.
